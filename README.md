@@ -3,7 +3,7 @@ Scheduling Meeting (Client) implemented using Angular (Latest).
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version LTS
-- Install [Angular](https://angular.io/cli) in System.
+- Install [Angular](https://angular.io/cli) in your local.
 
 
 # Getting started
